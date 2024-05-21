@@ -1,4 +1,4 @@
-# ACO-SMT2020
+# GSACO
 
 This repository demonstrates the application of ant colony foraging behavior to optimize the 
 scheduling process within large-scale semiconductor manufacturing environments.
@@ -28,7 +28,7 @@ python3 -m pip install -r requirements.txt
 
 ## Usage
 
-### ACO algorithm:
+### GSACO algorithm:
 Reference directory: aco_cpu
 #### Execute:
 ##### For windows:
